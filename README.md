@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mr.Darsh Vidja😃
-- 👀 I’m interested in AI Developement
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on AI & Web Developement
 - 📫 How to reach me ?
